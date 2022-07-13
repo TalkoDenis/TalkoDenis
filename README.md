@@ -1,5 +1,12 @@
-### Hi there 👋
-My name is Denis, and here is my projects.
+### Hello! 👋
+My name is Denis.
+For some years I worked like marketing analyst in big trade companies. I like marketing, programming and data analytics. Here are my projects.
+
+#### About me
+I know what A/B testing is, and how I can use it.
+I know statistical methods.
+I know the basics of programming in Python, I can apply my knowledge in practice.
+
 
 <!--
 **TalkoDenis/TalkoDenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
