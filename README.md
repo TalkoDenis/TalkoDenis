@@ -26,6 +26,7 @@ I know the basics of programming in Python, I can apply my knowledge in practice
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
+
 <!--
 **TalkoDenis/TalkoDenis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
