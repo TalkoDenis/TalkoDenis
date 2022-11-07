@@ -5,7 +5,7 @@ For some years I worked like marketing analyst in big trade companies. I like ma
 #### About me
 I know what A/B testing is, and how I can use it.
 I know statistical methods.
-I know the basics of programming in Python, I can apply my knowledge in practice.
+I know the basics of programming in Python (the most popular libraries that I use are Pandas, NumPy, Matplotlib, Seaborn and some other), I can apply my knowledge in practice.
 
 #### My hard skills:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
