@@ -2,6 +2,7 @@
 My name is Denis.
 For some years I worked like marketing analyst in big trade companies. I like marketing, programming and data analytics. Here are my projects.
 
+
 #### About me
 I know what A/B testing is, and how I can use it.
 I know statistical methods.
