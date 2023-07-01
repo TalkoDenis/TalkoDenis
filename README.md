@@ -49,3 +49,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalkoDenis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TalkoDenis&show_icons=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TalkoDenis&theme=flat)](https://github.com/TalkoDenis/github-profile-trophy)
+
