@@ -36,8 +36,10 @@ I know the basics of programming in Python (the most popular libraries that I us
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+https://www.codewars.com/users/Talko%20Denis/badges/large
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TalkoDenis&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
