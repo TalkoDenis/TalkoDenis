@@ -1,12 +1,8 @@
 ### Hello! 👋
 My name is Denis.
-For some years I worked like marketing analyst in big trade companies. I like marketing, programming and data analytics. Here are my projects.
-
 
 #### About me
-I know what A/B testing is, and how I can use it.
-I know statistical methods.
-I know the basics of programming in Python (the most popular libraries that I use are Pandas, NumPy, Matplotlib, Seaborn and some other), I can apply my knowledge in practice.
+For some years I worked like marketing analyst in big trade companies. I like programming and data analytics. 
 
 #### My hard skills:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
