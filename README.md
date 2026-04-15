@@ -54,6 +54,6 @@ For some years I worked like marketing analyst in big trade companies. I like pr
 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TalkoDenis&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TalkoDenis&layout=compact&langs_count=15)
 
 ![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TalkoDenis&show_icons=true)
